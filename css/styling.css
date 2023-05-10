@@ -1504,8 +1504,12 @@ a {
     position: relative;
 }
 
-.videos .holder .preview img {
+.videos .holder .preview .img img {
     max-width: 100%;
+}
+
+.videos .holder .preview .img {
+    position: relative;
 }
 
 .loader {
